@@ -1,3 +1,42 @@
-.subscribe-button{
-    background-color: red;
+/* style.css */
+
+/* Apply styles to the subscribe button */
+.subscribe-button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
+
+/* Apply styles to the join button */
+.join-button {
+    background-color: #008CBA; /* Blue */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* Apply styles to the tweet button */
+.tweet-button {
+    background-color: #55ACEE; /* Twitter Blue */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* Optional: Add more styling for other elements in your HTML */
